@@ -4,8 +4,7 @@ finding shortest path.
 path is root green colour square addd 
 my rules 
 0 is move direction possible 
-1 is closed door not move that side
+1 is closed door not move that side  9 is reached my destination 
 
- 9 is reached my destination 
-
+<a href = "https://kuspilla.github.io/Student_Result_Management_System/"><B> Project<B> </a>
 
